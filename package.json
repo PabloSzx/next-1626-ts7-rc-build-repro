@@ -1,0 +1,17 @@
+{
+  "name": "next-1626-ts7-rc-build-repro",
+  "private": true,
+  "scripts": {
+    "build": "next build"
+  },
+  "dependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "next": "16.2.6",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "7.0.1-rc"
+  },
+  "devDependencies": {}
+}
